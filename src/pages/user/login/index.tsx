@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { Link, history, useModel } from 'umi';
 import { getPageQuery } from '@/utils/utils';
 import SelectLang from '@/components/SelectLang';
-import logo from '@/assets/logo.svg';
+import logo from '@/assets/btc.svg';
 import { LoginParamsType, fakeAccountLogin } from '@/services/login';
 import LoginFrom from './components/Login';
 import styles from './style.less';
